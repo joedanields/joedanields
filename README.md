@@ -1,3 +1,5 @@
+![Masthead](https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif)
+
 # 💫 About Me:
 ## Hi there! 👋 I'm **Joe Daniel**
 
