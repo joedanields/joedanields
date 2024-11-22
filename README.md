@@ -16,7 +16,7 @@ I'm a passionate **full-stack developer** with a keen interest in **Artificial I
 
 ## 📬 **How to Reach Me**  
 - 📧 **Email**: [joedanielajd@gmail.com](mailto:joedanielajd@gmail.com)  
-- 🌐 **LinkedIn**: [Your LinkedIn Profile Link] (optional for added professionalism)  
+
 
 ---
 
