@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 <br><br>
-# 💫 About Me:
+## 💫 About Me:
 ## Hi there! 👋 I'm **Joe Daniel**
 
 I'm a passionate **full-stack developer** with a keen interest in **Artificial Intelligence** and **Data Science**. I thrive on solving challenging problems and continuously expanding my skill set. My journey is driven by curiosity and a commitment to creating innovative solutions that make a difference.
