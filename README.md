@@ -6,7 +6,9 @@
 🌱 Currently Learning: Advanced concepts in AI and Data Science.<br>💬 Open to Collaborate: Always! I believe collaboration sparks creativity and innovation.<br>⚡ Fun Fact: I once spent an entire weekend debugging, only to realize the solution was a single misplaced comma. It taught me the value of patience and attention to detail!
 
 <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="900">
+
 ## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/night_shades_1920) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joe-daniel1911) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Joedanielajd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joedanielajd@gmail.com) 
 
 # 💻 Tech Stack:
