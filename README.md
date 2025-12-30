@@ -1,7 +1,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 <br><br>
-
+# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+I'm a Developer At IPS Tech Community
 # 💫 About Me:
 🌱 Currently Learning: Advanced concepts in AI and Data Science.<br>💬 Open to Collaborate: Always! I believe collaboration sparks creativity and innovation.<br>⚡ Fun Fact: I once spent an entire weekend debugging, only to realize the solution was a single misplaced comma. It taught me the value of patience and attention to detail!
 
