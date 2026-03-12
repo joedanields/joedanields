@@ -4,7 +4,7 @@
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
-# 💫 About Me:
+#  About Me:
 🌱 Currently Learning: Advanced concepts in AI and Data Science.<br>💬 Open to Collaborate: Always! I believe collaboration sparks creativity and innovation.<br>⚡ Fun Fact: I once spent an entire weekend debugging, only to realize the solution was a single misplaced comma. It taught me the value of patience and attention to detail!
 
 <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="900">
